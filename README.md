@@ -1,2 +1,2 @@
 # hrs-app
-CI
+CI pipeline
